@@ -50,7 +50,7 @@ Requires **Node.js 20.19+** (Vite 7 requirement).
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Deepanshi-0103/MOJITO.git
+git clone https://github.com/Vansh060305/MOJITO.git
 cd MOJITO
 
 # 2. Install dependencies
@@ -84,4 +84,4 @@ npm run build
 
 ## 👤 Author
 
-Created by [Deepanshi-0103](https://github.com/Deepanshi-0103)
+Created by [Vansh060305](https://github.com/Vansh060305)
